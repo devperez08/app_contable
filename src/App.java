@@ -18,9 +18,9 @@ public class App {
             System.out.println("");
             System.out.println("REGISTRO CONTABLE");
             System.out.println("--------------------");
-            System.out.println("1. REGISTRAR INGRESOS");
-            System.out.println("2. REGISTRAR OTROS GASTOS");
-            System.out.println("3. REGISTRAR COSTO PRODUCTOS");
+            System.out.println("1. INGRESOS");
+            System.out.println("2. OTROS GASTOS");
+            System.out.println("3. COSTO PRODUCTOS");
             System.out.println("4. CIERRE CAJA");
             System.out.print("opcion: ");
 
