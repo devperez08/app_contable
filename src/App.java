@@ -14,7 +14,7 @@ public class App {
         int costoproductos = 0;
         int opcion = 0;
 
-        while (opcion < 4) {
+        while (opcion != 4) {
             System.out.println("");
             System.out.println("REGISTRO CONTABLE");
             System.out.println("--------------------");
